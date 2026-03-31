@@ -31,6 +31,7 @@ This module taught us about the benifits of different programming platforms and 
 Task 3 is based on this module, in which we had to do two tasks. The first task was to create an account in a programming platform and complete a beginner challenge. The second task for us was to create a Digital Literacy Awareness quiz using google forms and allow users to take part in the quiz
 
 Link : https://github.com/shivansh25BCE/Digital_Literacy_Sem2_Vityarthi/tree/main/task-3-platforms
+
 Quiz Link : https://docs.google.com/forms/d/e/1FAIpQLScwbrk9hxVK3pQjYDyPe90w50wKzKT6b8i7ERAKPudOVYuiPg/viewform?usp=publish-editor
 
 # MODULE 4 :Email Etiquette & The basics of social media etiquette 👩🏼‍💼📧

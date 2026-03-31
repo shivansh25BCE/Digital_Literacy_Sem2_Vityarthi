@@ -4,8 +4,11 @@ This is a project about the different aspects of Digital Literacy. This project 
 
 This project also teaches us about the manner of speech required in a professional environment and it’s benefits. It also makes us research about the different types of Cyber Crimes that take place in this era and the ways in which one can prevent them
 
-# Name : Shivansh Pandey
-# Registration Number : 25BCE10042
+# Name 
+Shivansh Pandey
+
+# Registration Number
+25BCE10042
 
 # MODULE 1 : Hands on Training on Presentation Software 💻👩‍🏫
 
@@ -13,7 +16,7 @@ This module taught us about the different types of digital tools available that 
 
 Task 1 is based on this module, in which we had to create a Digital Literacy Awareness Infographic with the help of a digital tool that was taught to us in Module 1. I personally used Canva to create a slide including what Digital literacy is, what are some useful tools and also some ways in which one can ensure online safety.
 
-# Link : https://github.com/shivansh25BCE/Digital_Literacy_Sem2_Vityarthi/tree/main/task-1-presentation
+Link : https://github.com/shivansh25BCE/Digital_Literacy_Sem2_Vityarthi/tree/main/task-1-presentation
 
 # MODULE 2 : Building a Digital Portfolio 💼📊
 
@@ -21,7 +24,7 @@ This module taught us the importance of creating a digital portfolio and the dif
 
 Task 2 is based on this module, in which we had to create a profile in atleast three different platforms. I personally chose LinkedIn, GitHub and Kaggle as my choice of platforms. The reason for choosing them was very easy, these platforms aligned with my future goals and would help me a lot in the future.
 
-# Link : https://github.com/shivansh25BCE/Digital_Literacy_Sem2_Vityarthi/tree/main/task-2-portfolio
+Link : https://github.com/shivansh25BCE/Digital_Literacy_Sem2_Vityarthi/tree/main/task-2-portfolio
 
 # MODULE 3 : Programming Platforms and Collaborative Learning Platforms 🧑‍💻⚙️🚀
 
@@ -29,8 +32,8 @@ This module taught us about the benifits of different programming platforms and 
 
 Task 3 is based on this module, in which we had to do two tasks. The first task was to create an account in a programming platform and complete a beginner challenge. The second task for us was to create a Digital Literacy Awareness quiz using google forms and allow users to take part in the quiz
 
-# Link : https://github.com/shivansh25BCE/Digital_Literacy_Sem2_Vityarthi/tree/main/task-3-platforms
-# Quiz Link : https://docs.google.com/forms/d/e/1FAIpQLScwbrk9hxVK3pQjYDyPe90w50wKzKT6b8i7ERAKPudOVYuiPg/viewform?usp=publish-editor
+Link : https://github.com/shivansh25BCE/Digital_Literacy_Sem2_Vityarthi/tree/main/task-3-platforms
+Quiz Link : https://docs.google.com/forms/d/e/1FAIpQLScwbrk9hxVK3pQjYDyPe90w50wKzKT6b8i7ERAKPudOVYuiPg/viewform?usp=publish-editor
 
 # MODULE 4 :Email Etiquette & The basics of social media etiquette 👩🏼‍💼📧
 
@@ -38,7 +41,7 @@ This module taught us the importance of way of speech in a professional environm
 
 Task 4 is based on this module, in which we had to do two tasks. The first task was to write two different formal mails, one to your professor and another to an internship coordinator. The second task was to research and create a do's and don'ts checklist for social media
 
-# Link : https://github.com/shivansh25BCE/Digital_Literacy_Sem2_Vityarthi/tree/main/task-4-email-etiquette
+Link : https://github.com/shivansh25BCE/Digital_Literacy_Sem2_Vityarthi/tree/main/task-4-email-etiquette
 
 # MODULE 5 : Awareness on Cyber Crime and Financial Fraudulent 💻🦹‍♂️
 
@@ -46,7 +49,7 @@ This module taught us about what cyber crime actually is and it's types that tak
 
 Task 5 is based on this module, in which we had to do two tasks. In the first task we had to do a case study on any one of the cyber crime that takes place in today's world. We had to research about the crime, the process by which it happens, te targetted group and it's consequences. For the next task we had to create a prevention checklist so that we can stay safe online. We also had to include the reporting channel and it's toll free number.
 
-# Link : https://github.com/shivansh25BCE/Digital_Literacy_Sem2_Vityarthi/tree/main/task-5-cybercrime
+Link : https://github.com/shivansh25BCE/Digital_Literacy_Sem2_Vityarthi/tree/main/task-5-cybercrime
 
 # Conclusion
 

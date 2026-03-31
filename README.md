@@ -4,11 +4,9 @@ This is a project about the different aspects of Digital Literacy. This project 
 
 This project also teaches us about the manner of speech required in a professional environment and it’s benefits. It also makes us research about the different types of Cyber Crimes that take place in this era and the ways in which one can prevent them
 
-# Name 
-Shivansh Pandey
+# Name : Shivansh Pandey
 
-# Registration Number
-25BCE10042
+# Registration Number : 25BCE10042
 
 # MODULE 1 : Hands on Training on Presentation Software 💻👩‍🏫
 
